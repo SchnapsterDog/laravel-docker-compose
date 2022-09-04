@@ -20,6 +20,7 @@ A pretty simplified Docker Compose workflow that sets up a LEMP network of conta
 - open ubuntu app on windows
 - clone the project
 - navigate to the project folder
+- `docker compose run --rm composer install`
 - `docker compose build`
 - `docker compose up`
 
