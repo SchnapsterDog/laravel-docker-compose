@@ -1,4 +1,7 @@
 # [![Set-up Laravel Docker Compose ]]
+
+Based on https://github.com/aschmelyun/docker-compose-laravel.git
+
 A pretty simplified Docker Compose workflow that sets up a LEMP network of containers for local Laravel development.
 
 ## ❔ What you need to run the Nginx Docker Container locally?
