@@ -1,4 +1,4 @@
-# [![Set-up Laravel Docker Compose ]]
+# Set-up Laravel Docker Compose 
 
 Based on https://github.com/aschmelyun/docker-compose-laravel.git
 
