@@ -17,6 +17,7 @@ A pretty simplified Docker Compose workflow that sets up a LEMP network of conta
 
 ### Project setup for Windows Users
 
+Only once:
 - open ubuntu app on windows
 - clone the project
 - navigate to the project folder
@@ -24,6 +25,8 @@ A pretty simplified Docker Compose workflow that sets up a LEMP network of conta
 - `docker compose run --rm composer install`
 - `docker compose build`
 - `docker-compose run --rm artisan key:generate`
+
+Run the project locally
 - `docker compose up`
 
 #### Composer dump autoload
