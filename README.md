@@ -23,6 +23,7 @@ A pretty simplified Docker Compose workflow that sets up a LEMP network of conta
 - copy .env.example file to .env
 - `docker compose run --rm composer install`
 - `docker compose build`
+- `docker-compose run --rm artisan key:generate`
 - `docker compose up`
 
 #### Composer dump autoload
